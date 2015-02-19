@@ -1,2 +1,2 @@
 # datasciencecoursera
-coursera data sciencec project
+coursera data science project
